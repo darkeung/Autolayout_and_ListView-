@@ -1,0 +1,13 @@
+/Users/darkeung/Desktop/week3/week3/week3/bin/iPhoneSimulator/Debug/week3.exe
+/Users/darkeung/Desktop/week3/week3/week3/bin/iPhoneSimulator/Debug/week3.pdb
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/myImage.png
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/week3.csproj.CoreCompileInputs.cache
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/week3.exe
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/week3.pdb
+/Users/darkeung/Desktop/week3/week3/week3/obj/iPhoneSimulator/Debug/week3.csprojResolveAssemblyReference.cache

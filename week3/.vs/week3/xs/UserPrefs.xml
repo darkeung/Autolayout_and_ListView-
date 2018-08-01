@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B07A4634-DD59-428D-829E-55E510996FBC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="week3/SessionsStoryboard.storyboard">
+    <Files>
+      <File FileName="week3/SeccionsViewController.cs" Line="21" Column="6" />
+      <File FileName="week3/SessionsStoryboard.storyboard" />
+      <File FileName="week3/Main.storyboard" />
+      <File FileName="week3/ViewController.cs" Line="1" Column="1" />
+      <File FileName="week3/Info.plist" />
+      <File FileName="week3/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.week3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.04EC2910-42F0-4B63-B720-09C1215F1287" automaticSigning="False" />
+</Properties>
